@@ -1,5 +1,6 @@
 Bu Java programı, kullanıcıdan alınan bir şifrenin aşağıdaki kurallara göre geçerli olup olmadığını kontrol eder ve sonucu ekrana yazdırır.
 
+
 ✅ Şifre Geçerlilik Kuralları
 1️⃣ En az 8 karakter uzunluğunda olmalı
 2️⃣ Boşluk karakteri içermemeli
