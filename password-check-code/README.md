@@ -2,10 +2,16 @@ Bu Java programı, kullanıcıdan alınan bir şifrenin aşağıdaki kurallara g
 
 
 ✅ Şifre Geçerlilik Kuralları
+
 1️⃣ En az 8 karakter uzunluğunda olmalı
+
 2️⃣ Boşluk karakteri içermemeli
+
 3️⃣ İlk karakter büyük harf olmalı
+
 4️⃣ Son karakter ? olmalı
+
+💻 Kod
 
 import java.util.Scanner;
 
