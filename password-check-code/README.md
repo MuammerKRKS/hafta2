@@ -11,8 +11,8 @@ Bu Java programı, kullanıcıdan alınan bir şifrenin aşağıdaki kurallara g
 
 4️⃣ Son karakter ? olmalı
 
-💻 Kod
 
+💻 Kod
 import java.util.Scanner;
 
 public class SifreKontrol {
@@ -34,7 +34,9 @@ public class SifreKontrol {
 
 
 🛠️ Nasıl Çalışır?
+
 1️⃣ Kullanıcıdan şifre alınır
+
 2️⃣ if bloğunda:
 
 Uzunluğu kontrol edilir
@@ -44,6 +46,8 @@ Boşluk içerip içermediği kontrol edilir
 İlk harfin büyük olup olmadığı kontrol edilir
 
 Son karakterin ? olup olmadığı kontrol edilir
+
 3️⃣ Şartlar sağlanıyorsa "Geçerli Şifre" yazdırılır
+
 4️⃣ Sağlanmıyorsa "Geçersiz Şifre" yazdırılır
 
