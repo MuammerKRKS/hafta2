@@ -28,25 +28,33 @@ Aksi halde, fonksiyon kendini divisor - 1 ile yeniden çağırarak işlem devam 
 Kod Kullanımı
 
 Scanner scanner = new Scanner(System.in);
+
 System.out.print("Bir sayı girin: ");
+
 int number = scanner.nextInt();
 
 if (isPrime(number, number - 1)) {
+
     System.out.println(number + " bir asal sayıdır.");
+    
 } else {
+
     System.out.println(number + " asal bir sayı değildir.");
 }
 
 ✅ Örnek Çıktı
 
 Bir sayı girin: 17
+
 17 bir asal sayıdır.
 
 Bir sayı girin: 20
+
 20 asal bir sayı değildir.
 
 
 📚 Gerekli Bilgiler
+
 Java Temelleri
 
 Recursive (özyinelemeli) metotlar
